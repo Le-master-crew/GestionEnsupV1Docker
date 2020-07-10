@@ -19,7 +19,8 @@ Prérequis :
 Lancement de l'application :
 - Télécharger le projet
 - A partir de la racine du projet executer la commande : mvn spring-boot:run
-- A partir d'un navigateur, accéder à : http://localhost:8080/ . Voici l'écran de connexion où vous pouvez vous connecter avec le compte admin:
+
+A partir d'un navigateur, accéder à : http://localhost:8080/ . Voici l'écran de connexion où vous pouvez vous connecter avec le compte admin:
 
   - identifiant : admin
   - mot de passe : admin
