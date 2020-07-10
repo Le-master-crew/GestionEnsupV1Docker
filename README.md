@@ -40,3 +40,13 @@ Technologies utilisées :
 - Heroku
 - Jenkins
 - Swagger
+
+Pour installer Docker : 
+-  sudo apt-get update
+-  sudo apt install docker.io
+-  sudo systemctl start docker
+-  sudo systemctl enable docker
+
+
+Pour récuperer l'image Docker :
+  - exectuer la commande : docker pull stolcraft/gestionensup1:latest dans un invite de commande ubuntu
